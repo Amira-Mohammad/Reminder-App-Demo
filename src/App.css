@@ -1,0 +1,16 @@
+body{
+    background: red;
+  }
+.App{
+    width: 50%;
+    margin: 50px auto;
+    color: blue;
+    padding: 10px;
+    border: 2px solid rgb(8, 8, 8);
+    border-radius: 10px;
+    background: whitesmoke;
+}  
+input{
+    padding: 5px;
+    margin: 10px;
+}
